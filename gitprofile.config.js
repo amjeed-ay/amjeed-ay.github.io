@@ -17,7 +17,7 @@ const config = {
     dribbble: '',
     behance: '',
     medium: '',
-    dev: 'arifszn',
+    dev: '',
     website: 'https://amjeed-ay.github.io',
     phone: '',
     email: 'ay_amjeed@outlook.com',
