@@ -25,6 +25,7 @@ const config = {
   skills: [
     'PHP',
     'Laravel',
+    'Nextjs',
     'JavaScript',
     'React.js',
     'Node.js',
